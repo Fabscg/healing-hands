@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.w3-sidebar {
+  margin-top: 100px;
+  width: 300px;
+}
+
+.w3-round {
+  width: 45%;
+}
+
+.icon {
+  padding: 10px;
+
+}
+
+.icon:hover {
+  background-color: rgb(187, 185, 185);
+}
+
+header {
+  position: static;
+  text-align: center;
+
+}
+
+li {
+  list-style-type: none;
+  text-decoration: none;
+  padding: 20px;
+}
+
+
